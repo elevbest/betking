@@ -1,0 +1,43 @@
+{
+    "version": 1,
+
+    "exact": [
+        "POOL",
+        "POOL NO.",
+        "NO.",
+        "BET",
+        "CODE",
+        "HOME",
+        "AWAY",
+        "TEAM",
+        "TEAMS",
+        "HOME TEAM",
+        "AWAY TEAM",
+        "HOME WIN",
+        "AWAY WIN",
+        "DRAW",
+        "STATUS",
+        "KICK OFF",
+        "W.A.T",
+        "BET TIPS",
+        "MUST DRAW",
+        "VS",
+        "PANEL",
+        "SCOTTISH",
+        "CHAMPIONSHIP"
+    ],
+
+    "contains": [
+        "RESULTS",
+        "DISCLAIMER",
+        "ODDS AS AT"
+    ],
+
+    "starts_with": [
+        "O V",
+        "OV ",
+        "OVER ",
+        "UNDER ",
+        "UN "
+    ]
+}
